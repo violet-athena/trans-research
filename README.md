@@ -11,6 +11,11 @@ This repository aims to set research principles and guidelines for doing crowdso
 5. Clarity. Documents must reveal the facts clearly. Contents and conclusions drawn must be free from ambiguities. In short, outcomes must convey clear-cut implications.
 6. Simplicity. Documents must be simple to understand. Unnecessary technical words or terminologies (jargons) should be avoided.
 
+## Contributions guide
+1. All changes should be structured as a single commit.
+2. Commit subject should be brief and describe the action in simple present tense
+3. Commit description should include detailed summary of the changes
+
 ## Links
 
 1. [Quickies](/Quickies/QuickResearch.md)
