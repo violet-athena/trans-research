@@ -44,4 +44,4 @@ The medical community is investigating this, but feels that the study is not eno
 
 One study showed that donation of blood from ever-pregnant women to male recipients under the age of 50 points to increased mortality rate. The study uses suspect statistical methods, as admitted by the authors and is contradicted by other studies. Based on that, the medical community **does not** consider this to be a settled matter and does not recommend changes to donation guidelines.
 
-Even if such correlation did exist, one of the two proposed mechanisms, the one deemed **more likely**, is *hormone* and not *genetics* based and will therefore class trans women, especially those that underwent female puberty along with the female, not the male group.
+Even if such correlation did exist, one of the two proposed mechanisms, the one deemed **more likely**, is *hormone* and not *genetics* based and will therefore class trans women, especially those that underwent cross-sex hormonal treatment in puberty along with the female, not the male group.
