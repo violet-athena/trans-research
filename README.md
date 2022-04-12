@@ -19,3 +19,4 @@ This repository aims to set research principles and guidelines for doing crowdso
 ## Links
 
 1. [Quickies](/Quickies/QuickResearch.md)
+2. [Glossary](/Glossary/Glossary.md)
